@@ -1,0 +1,17 @@
+Try pip!
+
+pip install Django- by this command I was able to install packages from Django.
+
+pip List- by this command I was able to see a list of all packages that are installed, including editable.
+
+pip install Django- by adding this command again shows me that all requirements are already satisfied.
+
+pip freeze- in this command pip freeze doesn’t include editable packages like pip list does, but outputs installed packages in requirements format.
+
+pip uninstall Django- by this command all packages selected will be uninstall.
+
+pip show Django- by this command will show all information of the packages installed.
+
+pip search Flask- by this command I am able to see an output with all packages containing the name “Flask” and also a description with that.
+
+
